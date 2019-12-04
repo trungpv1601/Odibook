@@ -1,31 +1,37 @@
 /* iOS Cordova Tweak */
 .device-cordova.device-ios {
-  height: 100vh;
+	height: 100vh;
 }
 
 /* Custom color theme properties */
 :root {
-  --f7-theme-color: #7E59CB;
-  --f7-theme-color-rgb: 126, 89, 203;
-  --f7-theme-color-shade: #673cbf;
-  --f7-theme-color-tint: #9678d5;
+	--f7-theme-color: #7e59cb;
+	--f7-theme-color-rgb: 126, 89, 203;
+	--f7-theme-color-shade: #673cbf;
+	--f7-theme-color-tint: #9678d5;
+
+	--f7-navbar-bg-color: var(--f7-theme-color);
+	--f7-subnavbar-bg-color: var(--f7-theme-color);
+	--f7-subnavbar-border-color: var(--f7-theme-color);
+  --f7-login-screen-bg-color: var(--f7-theme-color);
+  --f7-login-screen-content-bg-color: var(--f7-theme-color);
 }
 
 /* Left Panel right border when it is visible by breakpoint */
 .panel-left.panel-in-breakpoint:before {
-  position: absolute;
-  right: 0;
-  top: 0;
-  height: 100%;
-  width: 1px;
-  background: rgba(0,0,0,0.1);
-  content: '';
-  z-index: 6000;
+	position: absolute;
+	right: 0;
+	top: 0;
+	height: 100%;
+	width: 1px;
+	background: rgba(0, 0, 0, 0.1);
+	content: '';
+	z-index: 6000;
 }
 
 /* Hide navbar link which opens left panel when it is visible by breakpoint */
-.panel-left.panel-in-breakpoint ~ .view .navbar .panel-open[data-panel="left"] {
-  display: none;
+.panel-left.panel-in-breakpoint ~ .view .navbar .panel-open[data-panel='left'] {
+	display: none;
 }
 
 /*
@@ -33,12 +39,12 @@
 */
 .ios .panel-left:not(.panel-in-breakpoint).panel-in ~ .view-main:before,
 .ios .panel-left:not(.panel-in-breakpoint).panel-closing ~ .view-main:before {
-  position: absolute;
-  left: 0;
-  top: 0;
-  height: 100%;
-  width: 1px;
-  background: rgba(0,0,0,0.1);
-  content: '';
-  z-index: 6000;
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 1px;
+	background: rgba(0, 0, 0, 0.1);
+	content: '';
+	z-index: 6000;
 }

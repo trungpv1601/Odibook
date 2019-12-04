@@ -14,15 +14,13 @@ import 'framework7/css/framework7.bundle.css';
 // Import Icons and App Custom Styles
 import '../css/icons.css';
 import '../css/app.css';
+import '../fonts/manrope/index.css';
 
 // Import App Component
 import App from '../components/app.jsx';
 
 // Init F7 Vue Plugin
-Framework7.use(Framework7React)
+Framework7.use(Framework7React);
 
 // Mount React App
-ReactDOM.render(
-  React.createElement(App),
-  document.getElementById('app'),
-);
+ReactDOM.render(React.createElement(App), document.getElementById('app'));
