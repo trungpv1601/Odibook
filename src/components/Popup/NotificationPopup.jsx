@@ -35,7 +35,8 @@ export class NotificationPopup extends Component {
 								background: `url(${NotificationBG})`,
 								backgroundRepeat: 'no-repeat',
 								backgroundPositionX: 'right',
-								backgroundPositionY: '50%'
+								backgroundPositionY: '50%',
+								backgroundColor: "var(--f7-theme-color)"
 							}}
 						>
 							<Block
