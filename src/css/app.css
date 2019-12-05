@@ -88,6 +88,10 @@ div[id="notification-popup"] {
   --f7-label-font-size: 14px; */
 }
 
+div[data-name="home"] {
+  --f7-page-bg-color: #E9EEF4;
+}
+
 .color-e0d7f3 {
   --f7-button-bg-color: #e0d7f3;
   --f7-button-pressed-bg-color: #e0d7f3;
