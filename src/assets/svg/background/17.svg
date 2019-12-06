@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="812px" viewBox="0 0 375 812" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>background/bg-us</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="812" rx="40"></rect>
+        <linearGradient x1="30.5753042%" y1="85.6283615%" x2="145.425178%" y2="75.3291889%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.16" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="14.4228065%" y1="84.1878789%" x2="14.4228065%" y2="9.2037251%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.16" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="34.7405196%" x2="-7.70433164%" y2="147.9397%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.32" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Background" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background/bg-16">
+            <g id="background/bg-us">
+                <g id="pattern/pattern-10">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Pattern-Container" fill="#7E59CB" xlink:href="#path-1"></use>
+                    <rect id="Rectangle-Copy-2" fill="url(#linearGradient-3)" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(-46.478139, 213.681241) rotate(-45.000000) translate(46.478139, -213.681241) " x="-139.478139" y="120.681241" width="186" height="186"></rect>
+                    <rect id="Rectangle" fill="url(#linearGradient-4)" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(-11.478139, 164.681241) rotate(-45.000000) translate(11.478139, -164.681241) " x="-73.4781387" y="102.681241" width="124" height="124"></rect>
+                    <circle id="Oval-Copy" fill="#714CBE" mask="url(#mask-2)" cx="363" cy="223" r="223"></circle>
+                    <path d="M187.5,532 C256.811736,532 313,475.811736 313,406.5 C313,337.188264 256.811736,281 187.5,281 C118.188264,281 62,337.188264 62,406.5 C62,475.811736 118.188264,532 187.5,532 Z M188,500 C136.085234,500 94,457.914766 94,406 C94,354.085234 136.085234,312 188,312 C239.914766,312 282,354.085234 282,406 C282,457.914766 239.914766,500 188,500 Z" id="Oval" fill="url(#linearGradient-5)" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

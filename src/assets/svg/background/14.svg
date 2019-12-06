@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="812px" viewBox="0 0 375 812" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>pattern/pattern-zz</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="812" rx="40"></rect>
+    </defs>
+    <g id="Background" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background/bg-14">
+            <g id="pattern/pattern-zz">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Container-Copy" fill="#7E59CB" xlink:href="#path-1"></use>
+                <rect id="Rectangle" fill="#714CBE" mask="url(#mask-2)" transform="translate(0.000000, 197.000000) rotate(-45.000000) translate(-0.000000, -197.000000) " x="-64" y="133" width="128" height="128"></rect>
+                <g id="Group" mask="url(#mask-2)" fill-opacity="0.24">
+                    <g transform="translate(207.000000, 24.000000)">
+                        <g id="Dot-Patterns-Copy">
+                            <g id="Row-4" transform="translate(0.000000, 72.000000)" fill="#FFFFFF">
+                                <circle id="Dot-32" style="mix-blend-mode: overlay;" cx="4" cy="4" r="4"></circle>
+                                <circle id="Dot-31" style="mix-blend-mode: overlay;" cx="52" cy="4" r="4"></circle>
+                                <circle id="Dot-30" style="mix-blend-mode: overlay;" cx="100" cy="4" r="4"></circle>
+                                <circle id="Dot-28" style="mix-blend-mode: overlay;" cx="28" cy="4" r="4"></circle>
+                                <circle id="Dot-27" style="mix-blend-mode: overlay;" cx="76" cy="4" r="4"></circle>
+                            </g>
+                            <g id="Row-3" transform="translate(0.000000, 48.000000)" fill="#FFFFFF">
+                                <circle id="Dot-24" style="mix-blend-mode: overlay;" cx="4" cy="4" r="4"></circle>
+                                <circle id="Dot-23" style="mix-blend-mode: overlay;" cx="52" cy="4" r="4"></circle>
+                                <circle id="Dot-22" style="mix-blend-mode: overlay;" cx="100" cy="4" r="4"></circle>
+                                <circle id="Dot-20" style="mix-blend-mode: overlay;" cx="28" cy="4" r="4"></circle>
+                                <circle id="Dot-19" style="mix-blend-mode: overlay;" cx="76" cy="4" r="4"></circle>
+                            </g>
+                            <g id="Row-2" transform="translate(0.000000, 24.000000)" fill="#FFFFFF">
+                                <circle id="Dot-16" style="mix-blend-mode: overlay;" cx="4" cy="4" r="4"></circle>
+                                <circle id="Dot-15" style="mix-blend-mode: overlay;" cx="52" cy="4" r="4"></circle>
+                                <circle id="Dot-14" style="mix-blend-mode: overlay;" cx="100" cy="4" r="4"></circle>
+                                <circle id="Dot-12" style="mix-blend-mode: overlay;" cx="28" cy="4" r="4"></circle>
+                                <circle id="Dot-11" style="mix-blend-mode: overlay;" cx="76" cy="4" r="4"></circle>
+                            </g>
+                            <g id="Row-1" fill="#FFFFFF">
+                                <circle id="Dot-8" style="mix-blend-mode: overlay;" cx="4" cy="4" r="4"></circle>
+                                <circle id="Dot-7" style="mix-blend-mode: overlay;" cx="52" cy="4" r="4"></circle>
+                                <circle id="Dot-6" style="mix-blend-mode: overlay;" cx="100" cy="4" r="4"></circle>
+                                <circle id="Dot-4" style="mix-blend-mode: overlay;" cx="28" cy="4" r="4"></circle>
+                                <circle id="Dot-3" style="mix-blend-mode: overlay;" cx="76" cy="4" r="4"></circle>
+                            </g>
+                        </g>
+                        <g id="Dot-Patterns-Copy-2" transform="translate(120.000000, 0.000000)">
+                            <g id="Row-4" transform="translate(0.000000, 72.000000)" fill="#FFFFFF">
+                                <circle id="Dot-32" style="mix-blend-mode: overlay;" cx="4" cy="4" r="4"></circle>
+                                <circle id="Dot-28" style="mix-blend-mode: overlay;" cx="28" cy="4" r="4"></circle>
+                            </g>
+                            <g id="Row-3" transform="translate(0.000000, 48.000000)" fill="#FFFFFF">
+                                <circle id="Dot-24" style="mix-blend-mode: overlay;" cx="4" cy="4" r="4"></circle>
+                                <circle id="Dot-20" style="mix-blend-mode: overlay;" cx="28" cy="4" r="4"></circle>
+                            </g>
+                            <g id="Row-2" transform="translate(0.000000, 24.000000)" fill="#FFFFFF">
+                                <circle id="Dot-16" style="mix-blend-mode: overlay;" cx="4" cy="4" r="4"></circle>
+                                <circle id="Dot-12" style="mix-blend-mode: overlay;" cx="28" cy="4" r="4"></circle>
+                            </g>
+                            <g id="Row-1" fill="#FFFFFF">
+                                <circle id="Dot-8" style="mix-blend-mode: overlay;" cx="4" cy="4" r="4"></circle>
+                                <circle id="Dot-4" style="mix-blend-mode: overlay;" cx="28" cy="4" r="4"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

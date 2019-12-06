@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="812px" viewBox="0 0 375 812" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>pattern/pattern-xxx</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="812" rx="40"></rect>
+        <rect id="path-3" x="0" y="0" width="160" height="160"></rect>
+    </defs>
+    <g id="Background" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background/bg-11">
+            <g id="pattern/pattern-xxx">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Pattern-Container" fill="#7E59CB" xlink:href="#path-1"></use>
+                <g id="Group-2" mask="url(#mask-2)">
+                    <g transform="translate(0.000000, 199.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#7E59CB" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <g id="Group-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-4)" fill-opacity="0.24">
+                            <g transform="translate(80.000000, 80.000000) rotate(45.000000) translate(-80.000000, -80.000000) translate(0.000000, -48.000000)" fill="#FFFFFF">
+                                <rect id="Rectangle" x="0" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-4" x="24" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-5" x="48" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-6" x="72" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-7" x="96" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-8" x="120" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-9" x="144" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-16" x="12" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-15" x="36" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-14" x="60" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-13" x="84" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-12" x="108" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-11" x="132" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-10" x="156" y="0" width="4" height="256"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-5" mask="url(#mask-2)" fill-opacity="0.24">
+                    <g transform="translate(279.000000, 96.000000) scale(-1, -1) translate(-279.000000, -96.000000) translate(215.000000, 32.000000)">
+                        <g id="Dot-Patterns" transform="translate(0.000000, 48.000000)">
+                            <g id="Row-4" transform="translate(0.000000, 72.000000)" fill="#FFFFFF">
+                                <circle id="Dot-31" cx="28" cy="4" r="4"></circle>
+                                <circle id="Dot-30" cx="76" cy="4" r="4"></circle>
+                                <circle id="Dot-28" cx="4" cy="4" r="4"></circle>
+                                <circle id="Dot-27" cx="52" cy="4" r="4"></circle>
+                            </g>
+                            <g id="Row-3" transform="translate(0.000000, 48.000000)" fill="#FFFFFF">
+                                <circle id="Dot-23" cx="28" cy="4" r="4"></circle>
+                                <circle id="Dot-22" cx="76" cy="4" r="4"></circle>
+                                <circle id="Dot-20" cx="4" cy="4" r="4"></circle>
+                                <circle id="Dot-19" cx="52" cy="4" r="4"></circle>
+                            </g>
+                            <g id="Row-2" transform="translate(0.000000, 24.000000)" fill="#FFFFFF">
+                                <circle id="Dot-15" cx="28" cy="4" r="4"></circle>
+                                <circle id="Dot-14" cx="76" cy="4" r="4"></circle>
+                                <circle id="Dot-12" cx="4" cy="4" r="4"></circle>
+                                <circle id="Dot-11" cx="52" cy="4" r="4"></circle>
+                            </g>
+                            <g id="Row-1" fill="#FFFFFF">
+                                <circle id="Dot-7" cx="28" cy="4" r="4"></circle>
+                                <circle id="Dot-4" cx="4" cy="4" r="4"></circle>
+                                <circle id="Dot-3" cx="52" cy="4" r="4"></circle>
+                            </g>
+                        </g>
+                        <g id="Dot-Patterns-Copy-3" transform="translate(96.000000, 72.000000)">
+                            <g id="Row-4" transform="translate(0.000000, 48.000000)" fill="#FFFFFF">
+                                <circle id="Dot-28" cx="28" cy="4" r="4"></circle>
+                                <circle id="Dot-32" cx="4" cy="4" r="4"></circle>
+                            </g>
+                            <g id="Row-3" transform="translate(0.000000, 24.000000)" fill="#FFFFFF">
+                                <circle id="Dot-20" cx="28" cy="4" r="4"></circle>
+                                <circle id="Dot-24" cx="4" cy="4" r="4"></circle>
+                            </g>
+                            <g id="Row-2" fill="#FFFFFF">
+                                <circle id="Dot-12" cx="28" cy="4" r="4"></circle>
+                                <circle id="Dot-16" cx="4" cy="4" r="4"></circle>
+                            </g>
+                        </g>
+                        <g id="Dot-Patterns-Copy">
+                            <g id="Row-7" transform="translate(0.000000, 24.000000)" fill="#FFFFFF">
+                                <circle id="Dot-55" cx="28" cy="4" r="4"></circle>
+                                <circle id="Dot-52" cx="4" cy="4" r="4"></circle>
+                                <circle id="Dot-51" cx="52" cy="4" r="4"></circle>
+                            </g>
+                            <g id="Row-4" fill="#FFFFFF">
+                                <circle id="Dot-31" cx="28" cy="4" r="4"></circle>
+                                <circle id="Dot-28" cx="4" cy="4" r="4"></circle>
+                                <circle id="Dot-27" cx="52" cy="4" r="4"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

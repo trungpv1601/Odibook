@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="812px" viewBox="0 0 375 812" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>pattern/pattern-8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="812" rx="40"></rect>
+        <linearGradient x1="100%" y1="34.7405196%" x2="-7.70433164%" y2="147.9397%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.32" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-54.1656198%" y1="-35.8447531%" x2="135.040705%" y2="90.0908123%" id="linearGradient-4">
+            <stop stop-color="#BDA6EB" offset="0%"></stop>
+            <stop stop-color="#9377CD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="127.091202%" y1="-44.2044407%" x2="0%" y2="56.0435867%" id="linearGradient-5">
+            <stop stop-color="#BDA6EB" offset="0%"></stop>
+            <stop stop-color="#9377CD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="39.0229861%" y1="-30.6493879%" x2="59.1527296%" y2="81.2394297%" id="linearGradient-6">
+            <stop stop-color="#BDA6EB" offset="0%"></stop>
+            <stop stop-color="#9377CD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Background" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background/bg-8">
+            <g id="pattern/pattern-8">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Pattern-Container" fill="#7E59CB" xlink:href="#path-1"></use>
+                <circle id="Oval-Copy" fill="#714CBE" mask="url(#mask-2)" cx="-7" cy="48" r="195"></circle>
+                <path d="M30.5,588 C99.8117361,588 156,531.811736 156,462.5 C156,393.188264 99.8117361,337 30.5,337 C-38.8117361,337 -95,393.188264 -95,462.5 C-95,531.811736 -38.8117361,588 30.5,588 Z M31,556 C-20.9147665,556 -63,513.914766 -63,462 C-63,410.085234 -20.9147665,368 31,368 C82.9147665,368 125,410.085234 125,462 C125,513.914766 82.9147665,556 31,556 Z" id="Oval" fill="url(#linearGradient-3)" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                <g id="Cube" mask="url(#mask-2)">
+                    <g transform="translate(375.000000, 213.019336) rotate(-45.000000) translate(-375.000000, -213.019336) translate(247.000000, 85.019336)">
+                        <rect id="Rectangle" fill="url(#linearGradient-4)" x="0" y="128" width="128" height="128"></rect>
+                        <polygon id="Rectangle-Copy-2" fill="url(#linearGradient-5)" points="128 0 256 0 256 128 128 256 128 128 0 128"></polygon>
+                        <polygon id="Rectangle-Copy-3" fill="url(#linearGradient-6)" points="256 0 256 128 128 256 128 128"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

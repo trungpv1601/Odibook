@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="812px" viewBox="0 0 375 812" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>pattern/pattern-7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="812"></rect>
+        <rect id="path-3" x="0" y="0" width="160" height="160"></rect>
+    </defs>
+    <g id="Background" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background/bg-15-dark">
+            <g id="pattern/pattern-7">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Pattern-Container" fill="#171F29" xlink:href="#path-1"></use>
+                <g id="Group-2" mask="url(#mask-2)">
+                    <g transform="translate(215.000000, 272.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#171F29" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <g id="Group-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-4)">
+                            <g transform="translate(80.000000, 80.000000) rotate(45.000000) translate(-80.000000, -80.000000) translate(0.000000, -48.000000)" fill="#25303D">
+                                <rect id="Rectangle" x="0" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-4" x="24" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-5" x="48" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-6" x="72" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-7" x="96" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-8" x="120" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-9" x="144" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-16" x="12" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-15" x="36" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-14" x="60" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-13" x="84" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-12" x="108" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-11" x="132" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-10" x="156" y="0" width="4" height="256"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <path d="M33,193 C86.019336,193 129,150.019336 129,97 C129,43.980664 86.019336,1 33,1 C-20.019336,1 -63,43.980664 -63,97 C-63,150.019336 -20.019336,193 33,193 Z M33,169 C-6.76450199,169 -39,136.764502 -39,97 C-39,57.235498 -6.76450199,25 33,25 C72.764502,25 105,57.235498 105,97 C105,136.764502 72.764502,169 33,169 Z" id="Oval" fill="#25303D" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="812px" viewBox="0 0 375 812" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>pattern/pattern-yy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="812" rx="40"></rect>
+        <linearGradient x1="33.4759764%" y1="84.4404855%" x2="117.357612%" y2="39.3615884%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.24" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="160" height="160"></rect>
+    </defs>
+    <g id="Background" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background/bg-13">
+            <g id="pattern/pattern-yy">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Pattern-Container" fill="#7E59CB" xlink:href="#path-1"></use>
+                <circle id="Oval-Copy" fill="#714CBE" mask="url(#mask-2)" cx="375.5" cy="222.5" r="104.5"></circle>
+                <path d="M37,130 C79.5259257,130 114,95.5259257 114,53 C114,10.4740743 79.5259257,-24 37,-24 C-5.52592573,-24 -40,10.4740743 -40,53 C-40,95.5259257 -5.52592573,130 37,130 Z M38,110 C5.96748451,110 -20,84.0325155 -20,52 C-20,19.9674845 5.96748451,-6 38,-6 C70.0325155,-6 96,19.9674845 96,52 C96,84.0325155 70.0325155,110 38,110 Z" id="Oval" fill="url(#linearGradient-3)" style="mix-blend-mode: overlay;" mask="url(#mask-2)"></path>
+                <g id="Group-2" mask="url(#mask-2)">
+                    <g transform="translate(287.000000, -70.000000)">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#7E59CB" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <g id="Group-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-5)" fill-opacity="0.24">
+                            <g transform="translate(80.000000, 80.000000) rotate(45.000000) translate(-80.000000, -80.000000) translate(48.000000, -48.000000)" fill="#FFFFFF">
+                                <rect id="Rectangle-Copy-5" style="mix-blend-mode: overlay;" x="4.54747351e-13" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-6" style="mix-blend-mode: overlay;" x="24" y="-1.13686838e-13" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-7" style="mix-blend-mode: overlay;" x="48" y="1.13686838e-13" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-14" style="mix-blend-mode: overlay;" x="12" y="-1.13686838e-13" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-13" style="mix-blend-mode: overlay;" x="36" y="-2.27373675e-13" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-12" style="mix-blend-mode: overlay;" x="60" y="-2.27373675e-13" width="4" height="256"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

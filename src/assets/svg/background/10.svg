@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="812px" viewBox="0 0 375 812" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>pattern/pattern-xx</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="812" rx="40"></rect>
+        <rect id="path-3" x="0" y="0" width="160" height="160"></rect>
+        <linearGradient x1="-54.1656198%" y1="-35.8447531%" x2="135.040705%" y2="90.0908123%" id="linearGradient-5">
+            <stop stop-color="#BDA6EB" offset="0%"></stop>
+            <stop stop-color="#9377CD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="127.091202%" y1="-44.2044407%" x2="0%" y2="56.0435867%" id="linearGradient-6">
+            <stop stop-color="#BDA6EB" offset="0%"></stop>
+            <stop stop-color="#9377CD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="39.0229861%" y1="-30.6493879%" x2="59.1527296%" y2="81.2394297%" id="linearGradient-7">
+            <stop stop-color="#BDA6EB" offset="0%"></stop>
+            <stop stop-color="#9377CD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Background" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background/bg-10">
+            <g id="pattern/pattern-xx">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Pattern-Container" fill="#7E59CB" xlink:href="#path-1"></use>
+                <g id="Group-2" mask="url(#mask-2)">
+                    <g transform="translate(332.353553, 122.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#7E59CB" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <g id="Group-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-4)" fill-opacity="0.24">
+                            <g transform="translate(80.000000, 80.000000) rotate(90.000000) translate(-80.000000, -80.000000) translate(0.000000, -48.000000)" fill="#FFFFFF">
+                                <rect id="Rectangle" style="mix-blend-mode: overlay;" x="0" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-4" style="mix-blend-mode: overlay;" x="24" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-5" style="mix-blend-mode: overlay;" x="48" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-6" style="mix-blend-mode: overlay;" x="72" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-7" style="mix-blend-mode: overlay;" x="96" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-8" style="mix-blend-mode: overlay;" x="120" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-9" style="mix-blend-mode: overlay;" x="144" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-16" style="mix-blend-mode: overlay;" x="12" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-15" style="mix-blend-mode: overlay;" x="36" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-14" style="mix-blend-mode: overlay;" x="60" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-13" style="mix-blend-mode: overlay;" x="84" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-12" style="mix-blend-mode: overlay;" x="108" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-11" style="mix-blend-mode: overlay;" x="132" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-10" style="mix-blend-mode: overlay;" x="156" y="0" width="4" height="256"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Cube" mask="url(#mask-2)">
+                    <g transform="translate(-1.000000, 188.500000) scale(-1, -1) rotate(-45.000000) translate(1.000000, -188.500000) translate(-169.000000, 21.000000)">
+                        <rect id="Rectangle" fill="url(#linearGradient-5)" x="0.354293039" y="166.9386" width="167" height="167"></rect>
+                        <polygon id="Rectangle-Copy-2" fill="url(#linearGradient-6)" points="168 -9.09494702e-13 335 -9.09494702e-13 335 167 168 334 168 167 1 167"></polygon>
+                        <polygon id="Rectangle-Copy-3" fill="url(#linearGradient-7)" points="335.292154 0.353553391 335.292154 167.353553 168.292154 334.353553 168.292154 167.353553"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

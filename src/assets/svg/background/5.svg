@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="812px" viewBox="0 0 375 812" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>pattern/pattern-5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="812" rx="40"></rect>
+        <linearGradient x1="30.5753042%" y1="85.6283615%" x2="145.425178%" y2="75.3291889%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.16" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="14.4228065%" y1="84.1878789%" x2="14.4228065%" y2="9.2037251%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.16" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Background" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background/bg-5">
+            <g id="pattern/pattern-5">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Pattern-Container" fill="#7E59CB" xlink:href="#path-1"></use>
+                <rect id="Rectangle-Copy-2" fill="url(#linearGradient-3)" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(-61.000000, 552.000000) rotate(-45.000000) translate(61.000000, -552.000000) " x="-224" y="389" width="326" height="326"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-4)" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(0.500000, 466.500000) rotate(-45.000000) translate(-0.500000, -466.500000) " x="-108" y="358" width="217" height="217"></rect>
+                <rect id="Rectangle-Copy" fill="#714CBE" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(375.000000, 0.000000) rotate(-45.000000) translate(-375.000000, -0.000000) " x="197" y="-178" width="356" height="356"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

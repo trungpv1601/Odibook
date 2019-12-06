@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="812px" viewBox="0 0 375 812" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>pattern/pattern-y</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="812" rx="40"></rect>
+        <linearGradient x1="8.90186045%" y1="8.24673953%" x2="75.0962227%" y2="78.940458%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.24" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="160" height="160"></rect>
+    </defs>
+    <g id="Background" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background/bg-12">
+            <g id="pattern/pattern-y">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Pattern-Container" fill="#7E59CB" xlink:href="#path-1"></use>
+                <circle id="Oval-Copy" fill="#714CBE" mask="url(#mask-2)" cx="22.5" cy="185.5" r="151.5"></circle>
+                <path d="M151,165 C186.346224,165 215,136.346224 215,101 C215,65.653776 186.346224,37 151,37 C115.653776,37 87,65.653776 87,101 C87,136.346224 115.653776,165 151,165 Z M152,148 C125.490332,148 104,126.509668 104,100 C104,73.490332 125.490332,52 152,52 C178.509668,52 200,73.490332 200,100 C200,126.509668 178.509668,148 152,148 Z" id="Oval" fill="url(#linearGradient-3)" style="mix-blend-mode: overlay;" mask="url(#mask-2)"></path>
+                <g id="Group-2" mask="url(#mask-2)">
+                    <g transform="translate(289.000000, 5.000000)">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#7E59CB" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <g id="Group-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-5)" fill-opacity="0.24">
+                            <g transform="translate(80.000000, 80.000000) rotate(45.000000) translate(-80.000000, -80.000000) translate(0.000000, -48.000000)" fill="#FFFFFF">
+                                <rect id="Rectangle" style="mix-blend-mode: overlay;" x="0" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-4" style="mix-blend-mode: overlay;" x="24" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-5" style="mix-blend-mode: overlay;" x="48" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-6" style="mix-blend-mode: overlay;" x="72" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-7" style="mix-blend-mode: overlay;" x="96" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-8" style="mix-blend-mode: overlay;" x="120" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-9" style="mix-blend-mode: overlay;" x="144" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-16" style="mix-blend-mode: overlay;" x="12" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-15" style="mix-blend-mode: overlay;" x="36" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-14" style="mix-blend-mode: overlay;" x="60" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-13" style="mix-blend-mode: overlay;" x="84" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-12" style="mix-blend-mode: overlay;" x="108" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-11" style="mix-blend-mode: overlay;" x="132" y="0" width="4" height="256"></rect>
+                                <rect id="Rectangle-Copy-10" style="mix-blend-mode: overlay;" x="156" y="0" width="4" height="256"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
