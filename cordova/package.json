@@ -14,8 +14,10 @@
   "license": "Apache-2.0",
   "dependencies": {
     "cordova-android": "^8.1.0",
+    "cordova-browser": "^6.0.0",
     "cordova-electron": "^1.1.1",
     "cordova-ios": "^5.1.1",
+    "cordova-plugin-fcm-with-dependecy-updated": "^4.1.1",
     "cordova-plugin-keyboard": "^1.2.0",
     "cordova-plugin-splashscreen": "^5.0.3",
     "cordova-plugin-statusbar": "^2.4.3",
@@ -28,12 +30,14 @@
       "cordova-plugin-keyboard": {},
       "cordova-plugin-splashscreen": {},
       "cordova-plugin-wkwebview-file-xhr": {},
-      "cordova-plugin-whitelist": {}
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-fcm-with-dependecy-updated": {}
     },
     "platforms": [
       "ios",
       "android",
-      "electron"
+      "electron",
+      "browser"
     ]
   },
   "devDependencies": {
