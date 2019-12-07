@@ -1,9 +1,10 @@
 import React from 'react';
-import { App, Panel, View, Page, Navbar, BlockTitle, List, ListItem } from 'framework7-react';
+import { App, View } from 'framework7-react';
 
 import cordovaApp from '../js/cordova-app';
 import routes from '../js/routes';
 import { LoginPopup, RegisterPopup, NotificationPopup } from './Popup';
+import PanelLeft from './PanelLeft';
 
 export default class extends React.Component {
 	constructor() {
@@ -55,25 +56,8 @@ export default class extends React.Component {
 		return (
 			<App params={this.state.f7params}>
 				{/* Left panel with cover effect when hidden */}
-				<Panel left cover themeDark visibleBreakpoint={960}>
-					<View>
-						<Page>
-							<Navbar title="Left Panel" />
-							<BlockTitle>Left View Navigation</BlockTitle>
-							<List>
-								<ListItem link="/left-page-1/" title="Left Page 1" />
-								<ListItem link="/left-page-2/" title="Left Page 2" />
-							</List>
-							<BlockTitle>Control Main View</BlockTitle>
-							<List>
-								<ListItem link="/about/" view=".view-main" panel-close title="About" />
-								<ListItem link="/form/" view=".view-main" panel-close title="Form" />
-								<ListItem link="#" view=".view-main" back panel-close title="Back in history" />
-							</List>
-						</Page>
-					</View>
-				</Panel>
-
+				<PanelLeft />
+				
 				{/* Your main view, should have "view-main" class */}
 				<View main className="safe-areas" url="/" />
 
