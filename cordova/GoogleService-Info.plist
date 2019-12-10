@@ -29,7 +29,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:218108891699:ios:bde41af9890c9193850946</string>
+	<string>1:218108891699:ios:01741f350b11d6a9850946</string>
 	<key>DATABASE_URL</key>
 	<string>https://odibook-cb828.firebaseio.com</string>
 </dict>

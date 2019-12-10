@@ -131,7 +131,99 @@ var cordovaApp = {
 		);
 	},
 	handleFCM: function() {
-		console.log(window.FCMPlugin);
+		var app = cordovaApp.f7;
+		window.FirebasePlugin.getToken(
+			function(token) {
+				// save this server-side and use it to push notifications to this device
+				console.log('getToken', token);
+			},
+			function(error) {
+				console.error('getToken ERROR', error);
+			}
+		);
+
+		window.FirebasePlugin.getToken(
+			function(fcmToken) {
+				console.log('getToken', fcmToken);
+			},
+			function(error) {
+				console.error('getToken ERROR', error);
+			}
+		);
+
+		window.FirebasePlugin.onTokenRefresh(
+			function(token) {
+				// save this server-side and use it to push notifications to this device
+				console.log('onTokenRefresh', token);
+			},
+			function(error) {
+				console.error('onTokenRefresh ERROR', error);
+			}
+		);
+
+		window.FirebasePlugin.getAPNSToken(
+			function(apnsToken) {
+				console.log('getAPNSToken', apnsToken);
+			},
+			function(error) {
+				console.error('getAPNSToken ERROR', error);
+			}
+		);
+
+		window.FirebasePlugin.onApnsTokenReceived(
+			function(apnsToken) {
+				console.log('onApnsTokenReceived', apnsToken);
+			},
+			function(error) {
+				console.error('onApnsTokenReceived ERROR', error);
+			}
+		);
+
+		window.FirebasePlugin.onMessageReceived(
+			function(message) {
+				console.log('onMessageReceived', JSON.stringify(message));
+				var title = false;
+				if (message.title) {
+					title = message.title;
+				} else if (message.notification && message.notification.title) {
+					title = message.notification.title;
+				} else if (message.aps && message.aps.alert && message.aps.alert.title) {
+					title = message.aps.alert.title;
+				}
+
+				var body = false;
+				if (message.body) {
+					body = message.body;
+				} else if (message.notification && message.notification.body) {
+					body = message.notification.body;
+				} else if (message.aps && message.aps.alert && message.aps.alert.body) {
+					body = message.aps.alert.body;
+				}
+
+				if (title && body) {
+					app.notification
+						.create({
+							icon: '<i class="f7-icons">bell</i>',
+							title: 'Polish',
+							subtitle: title,
+							text: body,
+							closeButton: true
+						})
+						.open();
+				}
+			},
+			function(error) {
+				console.error('onMessageReceived ERROR', error);
+			}
+		);
+
+		window.FirebasePlugin.grantPermission(function(hasPermission) {
+			console.log('Permission was ' + (hasPermission ? 'granted' : 'denied'));
+		});
+
+		window.FirebasePlugin.hasPermission(function(hasPermission) {
+			console.log('Permission is ' + (hasPermission ? 'granted' : 'denied'));
+		});
 	},
 	init: function(f7) {
 		// Save f7 instance

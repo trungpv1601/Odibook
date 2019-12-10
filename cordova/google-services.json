@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "218108891699",
+    "firebase_url": "https://odibook-cb828.firebaseio.com",
+    "project_id": "odibook-cb828",
+    "storage_bucket": "odibook-cb828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218108891699:android:772400007bf31956850946",
+        "android_client_info": {
+          "package_name": "com.vk1ng.odibook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218108891699-72sl548t9i3ik21r1armo7g7oacpu9nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQXchUBMnYIL6ys6t4X0O9mEta3tFBt-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218108891699-72sl548t9i3ik21r1armo7g7oacpu9nn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "218108891699-ncp4r3asgmdq5qe5j82obh8vioc36ghh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vk1ng.odibook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
