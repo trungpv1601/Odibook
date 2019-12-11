@@ -135,16 +135,7 @@ var cordovaApp = {
 		window.FirebasePlugin.getToken(
 			function(token) {
 				// save this server-side and use it to push notifications to this device
-				console.log('getToken', token);
-			},
-			function(error) {
-				console.error('getToken ERROR', error);
-			}
-		);
-
-		window.FirebasePlugin.getToken(
-			function(fcmToken) {
-				console.log('getToken', fcmToken);
+				console.log('getToken', window.FirebasePlugin, token);
 			},
 			function(error) {
 				console.error('getToken ERROR', error);
