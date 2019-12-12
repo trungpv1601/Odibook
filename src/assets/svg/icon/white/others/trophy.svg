@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>SVG/White/white/others/trophy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="white/others/trophy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Boundary" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <path d="M18,5 L18,7 L21,7 L21,10 C21,11.6568542 19.6568542,13 18,13 L17.6583461,13.0006859 C17.1227639,14.5153984 15.9961917,15.7508768 14.5557096,16.4300411 C14.8377269,16.8861038 15,17.4241015 15,18 L15,19 L17,19 L17,21 L7,21 L7,19 L9,19 L9,18 C9,17.4241015 9.16227308,16.8861038 9.44358927,16.4292371 C8.0038083,15.7508768 6.87723614,14.5153984 6.34165389,13.0006859 L6,13 C4.34314575,13 3,11.6568542 3,10 L3,10 L3,7 L6,7 L6,5 L18,5 Z M12,17 C11.4477153,17 11,17.4477153 11,18 L11,19 L13,19 L13,18 C13,17.4477153 12.5522847,17 12,17 Z M16,10 L8,10 L8,11 C8,13.209139 9.790861,15 12,15 C14.209139,15 16,13.209139 16,11 L16,10 Z M18,11 C18.5522847,11 19,10.5522847 19,10 L19,9 L18,9 L18,11 Z M6,9 L5,9 L5,10 C5,10.5522847 5.44771525,11 6,11 L6,11 L6,9 Z M16,7 L8,7 L8,8 L16,8 L16,7 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

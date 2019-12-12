@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>SVG/White/black/multimedia/headphone</title>
+    <desc>Created with Sketch.</desc>
+    <g id="black/multimedia/headphone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Boundary" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <path d="M17,18 L17,11 C17,8.23857625 14.7614237,6 12,6 C9.23857625,6 7,8.23857625 7,11 L7,18 L5,18 C3.34314575,18 2,16.6568542 2,15 L2,13 C2,11.3431458 3.34314575,10 5,10 L5.07088886,10 C5.55611852,6.60770586 8.47352809,4 12,4 C15.5264719,4 18.4438815,6.60770586 18.9291111,10 L19,10 C20.6568542,10 22,11.3431458 22,13 L22,15 C22,16.6568542 20.6568542,18 19,18 L17,18 Z M19,16 C19.5522847,16 20,15.5522847 20,15 L20,13 C20,12.4477153 19.5522847,12 19,12 L19,16 Z M5,16 L5,12 C4.44771525,12 4,12.4477153 4,13 L4,15 C4,15.5522847 4.44771525,16 5,16 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

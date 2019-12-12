@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>SVG/White/black/UI/bookmark</title>
+    <desc>Created with Sketch.</desc>
+    <g id="black/UI/bookmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Boundary" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <path d="M7,5 L7,18.1314829 L12,14.7981496 L17,18.1314829 L17,5 L7,5 Z M5,21.8685171 L5,3 L19,3 L19,21.8685171 L12,17.2018504 L5,21.8685171 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

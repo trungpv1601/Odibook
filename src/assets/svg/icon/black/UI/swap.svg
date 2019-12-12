@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>SVG/White/black/UI/swap</title>
+    <desc>Created with Sketch.</desc>
+    <g id="black/UI/swap" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Boundary" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <path d="M18.1747185,14.6599998 L14.9289322,11.4142136 L16.3431458,10 L22,15.6568542 L16.3431458,21.3137085 L14.9289322,19.8994949 L18.1684273,16.6599998 L10,16.6599998 L10,14.6599998 L18.1747185,14.6599998 Z M5.82528153,6.65999985 L14,6.65999985 L14,8.65999985 L5.83157272,8.65999985 L9.07106781,11.8994949 L7.65685425,13.3137085 L2,7.65685425 L7.65685425,2 L9.07106781,3.41421356 L5.82528153,6.65999985 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

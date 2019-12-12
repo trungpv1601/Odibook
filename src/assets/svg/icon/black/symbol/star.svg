@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>SVG/White/black/symbol/star</title>
+    <desc>Created with Sketch.</desc>
+    <g id="black/symbol/star" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Boundary" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <path d="M12,15.7536419 L15.282919,17.4687057 L14.6662742,13.8164803 L17.3118746,11.2242226 L13.6478481,10.682087 L12,7.36491983 L10.3521519,10.682087 L6.68812543,11.2242226 L9.33372581,13.8164803 L8.71708097,17.4687057 L12,15.7536419 Z M6.15144547,21 L7.25000468,14.4935223 L2.53683998,9.8753882 L9.06434145,8.90956792 L12,3 L14.9356586,8.90956792 L21.46316,9.8753882 L16.7499953,14.4935223 L17.8485545,21 L12,17.9445959 L6.15144547,21 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>SVG/White/white/document/attachment</title>
+    <desc>Created with Sketch.</desc>
+    <g id="white/document/attachment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Boundary" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <path d="M7,17.5 L5,17.5 L5,9 C5,5.13400675 8.13400675,2 12,2 C15.8659932,2 19,5.13400675 19,9 L19,17 C19,19.7614237 16.7614237,22 14,22 C11.2385763,22 9,19.7614237 9,17 L9,10 C9,8.34314575 10.3431458,7 12,7 C13.6568542,7 15,8.34314575 15,10 L15,17 L13,17 L13,10 C13,9.44771525 12.5522847,9 12,9 C11.4477153,9 11,9.44771525 11,10 L11,17 C11,18.6568542 12.3431458,20 14,20 C15.6568542,20 17,18.6568542 17,17 L17,9 C17,6.23857625 14.7614237,4 12,4 C9.23857625,4 7,6.23857625 7,9 L7,17.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>SVG/White/black/UI/lock</title>
+    <desc>Created with Sketch.</desc>
+    <g id="black/UI/lock" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Boundary" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <path d="M12,3 C14.209139,3 16,4.790861 16,7 L16,9 L19,9 L19,21 L5,21 L5,9 L8,9 L8,7 C8,4.790861 9.790861,3 12,3 Z M17,11 L16,10.999 L16,11 L8,11 L8,10.999 L7,11 L7,19 L17,19 L17,11 Z M12,13 C12.5522847,13 13,13.4477153 13,14 L13,16 C13,16.5522847 12.5522847,17 12,17 C11.4477153,17 11,16.5522847 11,16 L11,14 C11,13.4477153 11.4477153,13 12,13 Z M12,5 C10.8954305,5 10,5.8954305 10,7 L10,9 L14,9 L14,7 C14,5.8954305 13.1045695,5 12,5 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

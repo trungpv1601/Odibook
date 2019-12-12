@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>SVG/White/black/e-commerce/cart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="black/e-commerce/cart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Boundary" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <path d="M9,17 C10.1045695,17 11,17.8954305 11,19 C11,20.1045695 10.1045695,21 9,21 C7.8954305,21 7,20.1045695 7,19 C7,17.8954305 7.8954305,17 9,17 Z M16,17 C17.1045695,17 18,17.8954305 18,19 C18,20.1045695 17.1045695,21 16,21 C14.8954305,21 14,20.1045695 14,19 C14,17.8954305 14.8954305,17 16,17 Z M6.78077641,5 L8.78077641,13 L17.2192236,13 L18.7192236,7 L12,7 L12,5 L21.2807764,5 L18.7807764,15 L7.21922359,15 L5.21922359,7 L3,7 L3,5 L6.78077641,5 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

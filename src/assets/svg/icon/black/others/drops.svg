@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>SVG/White/black/others/drops</title>
+    <desc>Created with Sketch.</desc>
+    <g id="black/others/drops" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Boundary" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <path d="M12,2.71937515 L12.624695,3.21913119 C17.8434379,7.39412547 20,10.7808881 20,15 C20,19.418278 16.418278,23 12,23 C7.581722,23 4,19.418278 4,15 C4,10.7808881 6.1565621,7.39412547 11.375305,3.21913119 L12,2.71937515 Z M12,5.28915623 C7.67417776,8.87180873 6,11.6507133 6,15 C6,18.3137085 8.6862915,21 12,21 C15.3137085,21 18,18.3137085 18,15 C18,11.6507133 16.3258222,8.87180873 12,5.28915623 Z M15,14 C15.5522847,14 16,14.4477153 16,15 C16,17.209139 14.209139,19 12,19 C11.4477153,19 11,18.5522847 11,18 C11,17.4477153 11.4477153,17 12,17 C13.1045695,17 14,16.1045695 14,15 C14,14.4477153 14.4477153,14 15,14 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

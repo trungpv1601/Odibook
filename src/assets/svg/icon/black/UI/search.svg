@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>SVG/White/black/UI/search</title>
+    <desc>Created with Sketch.</desc>
+    <g id="black/UI/search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Boundary" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <path d="M11,4 C14.8659932,4 18,7.13400675 18,11 C18,12.5651903 17.4862971,14.0103989 16.6182936,15.1762233 L19.7115138,18.2902994 C19.7453411,18.3241266 19.7762522,18.359895 19.8042362,18.3972672 L20.4194153,19.0175313 L19.0052018,20.4317448 L15.1971899,16.6026223 C14.027747,17.4801106 12.5745868,18 11,18 C7.13400675,18 4,14.8659932 4,11 C4,7.13400675 7.13400675,4 11,4 Z M11,6 C8.23857625,6 6,8.23857625 6,11 C6,13.7614237 8.23857625,16 11,16 C13.7614237,16 16,13.7614237 16,11 C16,8.23857625 13.7614237,6 11,6 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

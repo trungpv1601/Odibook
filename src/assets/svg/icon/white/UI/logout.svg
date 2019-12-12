@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>SVG/White/white/UI/logout</title>
+    <desc>Created with Sketch.</desc>
+    <g id="white/UI/logout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Boundary" fill-opacity="0" fill="#FFFFFF" x="0" y="0.000492082259" width="24" height="24"></rect>
+        <path d="M6.82528153,13 L10.0710678,16.2457863 L8.65685425,17.6599998 L3,12.0031456 L4,11.0031456 L4,11 L4.0031456,11 L8.65685425,6.34629135 L10.0710678,7.76050491 L6.83157272,11 L16,11 L16,13 L6.82528153,13 Z M12,6 L12,4 L21,4 L21,20 L12,20 L12,18 L19,18 L19,6 L12,6 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

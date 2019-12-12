@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>SVG/White/black/document/pie-chart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="black/document/pie-chart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Boundary" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <path d="M11.5,4.5 L11.5,12.5 L19.5,12.5 L19.5,13.5 C19.5,18.4705627 15.4705627,22.5 10.5,22.5 C5.52943725,22.5 1.5,18.4705627 1.5,13.5 C1.5,8.52943725 5.52943725,4.5 10.5,4.5 L11.5,4.5 Z M9.5,6.57088886 C6.10770586,7.05611852 3.5,9.97352809 3.5,13.5 C3.5,17.3659932 6.63400675,20.5 10.5,20.5 C14.0264719,20.5 16.9438815,17.8922941 17.4291111,14.5 L9.5,14.5 L9.5,6.57088886 Z M13.5,1.5 C18.4705627,1.5 22.5,5.52943725 22.5,10.5 L22.5,11.5 L12.5,11.5 L12.5,1.5 L13.5,1.5 Z M14.5,3.57088886 L14.5,9.5 L20.4291111,9.5 C19.9905984,6.43430884 17.5656912,4.00940162 14.5,3.57088886 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

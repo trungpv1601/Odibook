@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>SVG/White/white/UI/bell</title>
+    <desc>Created with Sketch.</desc>
+    <g id="white/UI/bell" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Boundary" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <path d="M6,16 L18,16 L18,12 C18,8.6862915 15.3137085,6 12,6 C8.6862915,6 6,8.6862915 6,12 L6,16 Z M14,19 C14,20.1045695 13.1045695,21 12,21 C10.8954305,21 10,20.1045695 10,19 L14,19 Z M12,2 C12.5522847,2 13,2.44771525 13,3 L13.0009551,4.06201291 C16.9468043,4.55453501 20,7.92071147 20,12 L20,18 L4,18 L4,12 C4,7.92036556 7.05371356,4.55396414 11.0000487,4.06188768 L11,3 C11,2.44771525 11.4477153,2 12,2 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

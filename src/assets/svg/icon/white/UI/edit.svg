@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>SVG/White/white/UI/edit</title>
+    <desc>Created with Sketch.</desc>
+    <g id="white/UI/edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Boundary" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <path d="M12,4 L12,6 L6,6 L6,18 L18,18 L18,12 L20,12 L20,20 L4,20 L4,4 L12,4 Z M15.1499262,7.06210148 L17.2712466,9.18342182 L10.9072855,15.5473829 L8.43241181,15.9009362 L8.7859652,13.4260625 L15.1499262,7.06210148 Z M18.3319067,6.0014413 C18.9176932,6.58722774 18.9176932,7.53697521 18.3319067,8.12276165 L17.9783534,8.47631504 L15.857033,6.3549947 L16.2105864,6.0014413 C16.7963728,5.41565487 17.7461203,5.41565487 18.3319067,6.0014413 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

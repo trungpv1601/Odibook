@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>SVG/White/black/symbol/checkbox</title>
+    <desc>Created with Sketch.</desc>
+    <g id="black/symbol/checkbox" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Boundary" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <path d="M19.88095,4 L19.88095,20 L4,20 L4,4 L19.88095,4 Z M17.8958313,6 L5.98511875,6 L5.98511875,18 L17.8958313,18 L17.8958313,6 Z M14.6466205,8.63557691 L16.2656803,10.1990848 L11.3842566,15.2707896 L10.6823864,16 L9.91147992,15.3604394 L7.18638191,13.0953801 L8.58015061,11.3114375 L10.5213015,12.9217048 L14.6466205,8.63557691 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
