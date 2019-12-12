@@ -54,10 +54,10 @@ export default class extends React.Component {
 	}
 	render() {
 		return (
-			<App params={this.state.f7params}>
+			<App params={this.state.f7params} style={{ backgroundColor: 'var(--f7-theme-color)' }}>
 				{/* Left panel with cover effect when hidden */}
 				<PanelLeft />
-				
+
 				{/* Your main view, should have "view-main" class */}
 				<View main className="safe-areas" url="/" />
 
