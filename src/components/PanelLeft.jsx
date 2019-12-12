@@ -8,7 +8,7 @@ import {
   Icon,
   Block
 } from "framework7-react";
-import PanelLeftBG from "../assets/svg/background/7.svg";
+import PanelLeftBG from "../assets/svg/background/7.png";
 import {
   BellIcon,
   BookmarkIcon,
