@@ -8,7 +8,7 @@ import {
   Icon,
   Block
 } from "framework7-react";
-import PanelLeftBG from "../assets/svg/background/7.png";
+import PanelLeftBG from "../assets/svg/background/7.svg";
 import {
   BellIcon,
   BookmarkIcon,
@@ -29,7 +29,8 @@ class PanelLeft extends Component {
               backgroundRepeat: "no-repeat",
               backgroundPositionX: "right",
               // backgroundPositionY: '20%',
-              backgroundColor: "var(--f7-theme-color)"
+              backgroundColor: "var(--f7-theme-color)",
+              backgroundSize: "cover"
             }}
           >
             <Block>

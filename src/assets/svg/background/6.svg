@@ -4,7 +4,7 @@
     <title>pattern/pattern-6</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <rect id="path-1" x="0" y="0" width="375" height="812" rx="40"></rect>
+        <rect id="path-1" x="0" y="0" width="375" height="812"></rect>
         <linearGradient x1="14.4228065%" y1="84.1878789%" x2="14.4228065%" y2="9.2037251%" id="linearGradient-3">
             <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
             <stop stop-color="#FFFFFF" stop-opacity="0.16" offset="100%"></stop>

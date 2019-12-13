@@ -38,7 +38,8 @@ export class LoginPopup extends Component {
                 backgroundRepeat: "no-repeat",
                 backgroundPositionX: "right",
                 backgroundPositionY: "20%",
-                backgroundColor: "var(--f7-theme-color)"
+                backgroundColor: "var(--f7-theme-color)",
+                backgroundSize: "cover"
               }}
             >
               <Block
