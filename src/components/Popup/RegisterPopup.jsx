@@ -11,7 +11,7 @@ import {
   Button
 } from "framework7-react";
 import { BackIcon } from "../Icons";
-import RegisterBG from "../../assets/svg/register-bg.svg";
+import RegisterBG from "../../assets/svg/background/2.svg";
 
 export class RegisterPopup extends Component {
   constructor(props) {

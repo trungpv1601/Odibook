@@ -45,7 +45,7 @@ class PanelLeft extends Component {
 								</ListItem>
 							</List>
 							<List noChevron noHairlines>
-								<ListItem title="Settings">
+								<ListItem link="/settings/" view=".view-main" panelClose title="Settings">
 									<SettingsIcon slot="media" />
 								</ListItem>
 							</List>

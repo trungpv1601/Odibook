@@ -11,7 +11,7 @@ import {
 	Button
 } from 'framework7-react';
 import { BackIcon, NotificationIcon } from '../Icons';
-import NotificationBG from '../../assets/svg/notification-bg.svg';
+import NotificationBG from '../../assets/svg/background/3.svg';
 
 export class NotificationPopup extends Component {
 	constructor(props) {

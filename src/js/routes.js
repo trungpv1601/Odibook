@@ -2,6 +2,7 @@ import HomePage from '../pages/home.jsx';
 import AboutPage from '../pages/about.jsx';
 import FormPage from '../pages/form.jsx';
 import LibraryPage from '../pages/library';
+import SettingsPage from '../pages/settings';
 
 import LeftPage1 from '../pages/left-page-1.jsx';
 import LeftPage2 from '../pages/left-page-2.jsx';
@@ -23,10 +24,13 @@ var routes = [
 		component: LibraryPage
 	},
 	{
+		path: '/settings/',
+		component: SettingsPage
+	},
+	{
 		path: '/form/',
 		component: FormPage
 	},
-
 	{
 		path: '/left-page-1/',
 		component: LeftPage1

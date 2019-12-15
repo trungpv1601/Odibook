@@ -12,7 +12,7 @@ import {
 	NavRight
 } from 'framework7-react';
 import { MenuIcon, SearchIcon, StarIcon, RightArrowIcon } from '../components/Icons';
-import HomeBG from '../assets/svg/home-bg.svg';
+import HomeBG from '../assets/svg/background/15.svg';
 import BookCover1 from '../assets/svg/book-cover/medium/1.svg';
 import BookCover2 from '../assets/svg/book-cover/medium/2.svg';
 import BookCover3 from '../assets/svg/book-cover/medium/3.svg';

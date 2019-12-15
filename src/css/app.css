@@ -21,6 +21,9 @@
 	--f7-navbar-height: 62px;
 	--f7-navbar-bg-color: #e9eef4;
 	--f7-navbar-border-color: #9aa7b8;
+
+	--f7-list-item-title-text-color: #344252;
+	--f7-text-color: #344252;
 }
 
 /* Left Panel right border when it is visible by breakpoint */
@@ -105,9 +108,15 @@ div[data-name='home'] {
 
 div[data-name='library'] {
 	--f7-searchbar-bg-color: #e9eef4;
-  --f7-searchbar-input-bg-color: #e9eef4;
-  --f7-searchbar-border-color: transparent;
-  --f7-searchbar-in-page-content-border-radius: 23px;
+	--f7-searchbar-input-bg-color: #e9eef4;
+	--f7-searchbar-border-color: transparent;
+	--f7-searchbar-in-page-content-border-radius: 23px;
+}
+
+div[data-name='settings'] {
+	--f7-list-item-border-color: #979797;
+	--f7-list-item-title-font-weight: 800;
+	--f7-list-item-title-font-size: 16px;
 }
 
 .color-e0d7f3 {
@@ -128,7 +137,7 @@ html.with-panel-left-reveal .views {
 	-webkit-box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
 	-moz-box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
 	-ms-box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
-	border-radius: 20px;
+	/* border-radius: 20px; */
 }
 
 .panel.panel-left {

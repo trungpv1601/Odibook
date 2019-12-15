@@ -11,7 +11,7 @@ import {
   Button
 } from "framework7-react";
 import { BackIcon } from "../Icons";
-import LoginBG from "../../assets/svg/login-bg.svg";
+import LoginBG from "../../assets/svg/background/6.svg";
 
 export class LoginPopup extends Component {
   constructor(props) {
