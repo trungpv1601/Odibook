@@ -2,20 +2,24 @@ import React from 'react';
 import {
 	Page,
 	Link,
-	Block,
-	Swiper,
-	SwiperSlide,
+	NavTitle,
 	ListItem,
 	List,
 	Navbar,
 	NavLeft,
-	NavRight,
-	BlockTitle,
-	Searchbar,
-	Row,
-	Col
+	Block,
+	Toggle
 } from 'framework7-react';
-import { BackIcon, ProfileIconWhite } from '../components/Icons';
+import {
+	BackIcon,
+	ProfileIconWhite,
+	RightArrowIcon,
+	LockIcon,
+	BellIconBlack,
+	LocationIconBlack,
+	BarChartIconBlack,
+	LockoutIcon
+} from '../components/Icons';
 import PageBG from '../assets/svg/background/12.svg';
 
 export default () => (
@@ -37,44 +41,47 @@ export default () => (
 					<BackIcon />
 				</Link>
 			</NavLeft>
+			<NavTitle>Settings</NavTitle>
 		</Navbar>
 		{/* Page content */}
-		<p className="text-align-center" style={{ fontSize: '32px', color: '#fff', fontWeight: 800 }}>
-			Settings
-		</p>
-		<div
+		<Block
+			className="no-margin no-padding"
 			style={{
-				backgroundColor: '#fff',
-				paddingLeft: 'calc(var(--f7-block-padding-horizontal) + var(--f7-safe-area-left))',
-				paddingRight: 'calc(var(--f7-block-padding-horizontal) + var(--f7-safe-area-right))',
-				borderRadius: '20px 20px 0 0',
 				display: 'flex',
+				backgroundColor: '#fff',
+				height: '100%',
 				flexDirection: 'column',
 				justifyContent: 'space-between'
 			}}
 		>
-			<List noHairlines>
+			<List noHairlines noChevron>
 				<ListItem title="Account Settings" link="#">
 					<ProfileIconWhite slot="media" />
+					<RightArrowIcon slot="after" />
 				</ListItem>
 				<ListItem title="Password" link="#">
-					<ProfileIconWhite slot="media" />
+					<LockIcon slot="media" />
+					<RightArrowIcon slot="after" />
 				</ListItem>
 				<ListItem title="Notifications" link="#">
-					<ProfileIconWhite slot="media" />
+					<BellIconBlack slot="media" />
+					<Toggle defaultChecked />
 				</ListItem>
 				<ListItem title="Location Access" link="#">
-					<ProfileIconWhite slot="media" />
+					<LocationIconBlack slot="media" />
+					<Toggle defaultChecked />
 				</ListItem>
 				<ListItem title="Analytics" link="#">
-					<ProfileIconWhite slot="media" />
+					<BarChartIconBlack slot="media" />
+					<RightArrowIcon slot="after" />
 				</ListItem>
 			</List>
-			<List noHairlines style={{ color: '#FF3F5E' }}>
-				<ListItem title="Logout" link="#">
-					<ProfileIconWhite slot="media" />
+			<List noHairlines noChevron>
+				<ListItem title="Logout" className="logout">
+					<LockoutIcon slot="media" color="#FF3F5E" />
+					<RightArrowIcon slot="after" color="#FF3F5E" />
 				</ListItem>
 			</List>
-		</div>
+		</Block>
 	</Page>
 );

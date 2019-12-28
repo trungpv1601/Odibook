@@ -10,3 +10,8 @@ export * from './HomeIcon';
 export * from './ProfileIcon';
 export * from './Search2Icon';
 export * from './SettingsIcon';
+export * from './LockIcon';
+export * from './BellIconBlack';
+export * from './BarChartIconBlack';
+export * from './LocationIconBlack';
+export * from './LockoutIcon';

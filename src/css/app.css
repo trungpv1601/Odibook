@@ -24,6 +24,8 @@
 
 	--f7-list-item-title-text-color: #344252;
 	--f7-text-color: #344252;
+
+	--f7-navbar-text-color: #fff;
 }
 
 /* Left Panel right border when it is visible by breakpoint */
@@ -126,7 +128,7 @@ div[data-name='settings'] {
 	--f7-button-pressed-text-color: #fff;
 }
 
-html.with-panel-left-reveal .framework7-root > .view,
+/* html.with-panel-left-reveal .framework7-root > .view,
 html.with-panel-left-reveal .panel-backdrop,
 html.with-panel-left-reveal .views {
 	transform: translate3d(260px, 0, 0) scale(0.9);
@@ -137,8 +139,8 @@ html.with-panel-left-reveal .views {
 	-webkit-box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
 	-moz-box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
 	-ms-box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
-	/* border-radius: 20px; */
-}
+	
+} */
 
 .panel.panel-left {
 	--f7-list-bg-color: transparent;
@@ -150,4 +152,8 @@ html.with-panel-left-reveal .views {
 .nav-bg-custom {
 	--f7-navbar-bg-color: var(--f7-theme-color);
 	--f7-navbar-border-color: var(--f7-theme-color-shade);
+}
+
+.logout {
+	--f7-list-item-title-text-color: #ff3f5e;
 }
