@@ -52,8 +52,7 @@ export default class Player extends Component {
         <div
           style={{
             display: "flex",
-            justifyContent: "space-between",
-            paddingBottom: "10px"
+            justifyContent: "space-between"
           }}
         >
           <span
@@ -67,7 +66,7 @@ export default class Player extends Component {
             06:11
           </span>
         </div>
-        <Range min={0} max={100} step={1} value={10} label></Range>
+        <Range min={0} max={100} step={1} value={10}></Range>
         <div
           style={{
             paddingTop: "10px",
