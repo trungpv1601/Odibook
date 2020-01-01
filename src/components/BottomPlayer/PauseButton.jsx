@@ -1,6 +1,6 @@
-import React from "react"
+import React from "react";
 
-export function PauseButton(props) {
+function PauseButton(props) {
   return (
     <svg width={48} height={48} viewBox="0 0 48 48" {...props}>
       <title>{"Container"}</title>
@@ -12,5 +12,7 @@ export function PauseButton(props) {
         </g>
       </g>
     </svg>
-  )
+  );
 }
+
+export default PauseButton;

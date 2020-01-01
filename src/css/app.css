@@ -20,12 +20,10 @@
 
   --f7-navbar-height: 62px;
   --f7-navbar-bg-color: #e9eef4;
-  --f7-navbar-border-color: #9aa7b8;
+  --f7-navbar-border-color: transparent;
 
   --f7-list-item-title-text-color: #344252;
   --f7-text-color: #344252;
-
-  --f7-navbar-text-color: #fff;
 }
 
 /* Left Panel right border when it is visible by breakpoint */
@@ -151,7 +149,7 @@ html.with-panel-left-reveal .views {
 
 .nav-bg-custom {
   --f7-navbar-bg-color: var(--f7-theme-color);
-  --f7-navbar-border-color: var(--f7-theme-color-shade);
+  --f7-navbar-text-color: #fff;
 }
 
 .logout {

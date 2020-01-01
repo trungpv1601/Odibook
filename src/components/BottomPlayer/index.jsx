@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Progressbar, Row, Col } from "framework7-react";
-import { PauseButton } from "../components/Button";
+import PauseButton from "./PauseButton";
+import PlayButton from "./PlayButton";
 
 const styles = {
   bottomPlayer: {
@@ -9,6 +10,28 @@ const styles = {
 };
 
 class BottomPlayer extends Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      pause: true
+    };
+
+    this.handleClickPlay = this.handleClickPlay.bind(this);
+    this.handleClickPause = this.handleClickPause.bind(this);
+  }
+
+  handleClickPlay() {
+    this.setState({
+      pause: true
+    });
+  }
+
+  handleClickPause() {
+    this.setState({
+      pause: false
+    });
+  }
   render() {
     return (
       <div style={styles.bottomPlayer}>
@@ -31,7 +54,11 @@ class BottomPlayer extends Component {
             </p>
           </Col>
           <Col width="20">
-            <PauseButton />
+            {this.state.pause ? (
+              <PauseButton onClick={this.handleClickPause} />
+            ) : (
+              <PlayButton onClick={this.handleClickPlay} />
+            )}
           </Col>
         </Row>
       </div>
