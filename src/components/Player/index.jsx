@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Block, Range } from "framework7-react";
+import { Block, Range, Progressbar } from "framework7-react";
 import PlayButton from "./PlayButton";
 import PauseButton from "./PauseButton";
 import ForwardButton from "./ForwardButton";
@@ -14,7 +14,16 @@ export default class Player extends Component {
 
     this.state = {
       playing: false,
-      played: 0
+      played: 0,
+      pip: false,
+      controls: false,
+      light: false,
+      volume: 0.8,
+      muted: false,
+      loaded: 0,
+      duration: 0,
+      playbackRate: 1.0,
+      loop: false
     };
 
     this.handlePlayPause = this.handlePlayPause.bind(this);
@@ -33,16 +42,86 @@ export default class Player extends Component {
   }
 
   handleProgress(state) {
-    console.log("onProgress", state);
+    // console.log("onProgress", state);
     // We only want to update time slider if we are not currently seeking
     if (!this.state.seeking) {
       this.setState(state);
     }
   }
 
-  render() {
-    const { playing, played } = this.state;
+  handleSeekMouseDown(e) {
+    this.setState({ seeking: true });
+  }
 
+  handleSeekChange(e) {
+    this.setState({ played: parseFloat(e.target.value) });
+  }
+
+  handleSeekMouseUp(e) {
+    this.setState({ seeking: false });
+    this.player.seekTo(parseFloat(e.target.value));
+  }
+
+  handlePlay() {
+    console.log("onPlay");
+    this.setState({ playing: true });
+  }
+
+  handleEnablePIP() {
+    console.log("onEnablePIP");
+    this.setState({ pip: true });
+  }
+
+  handleDisablePIP() {
+    console.log("onDisablePIP");
+    this.setState({ pip: false });
+  }
+
+  handlePause() {
+    console.log("onPause");
+    this.setState({ playing: false });
+  }
+
+  handleEnded() {
+    console.log("onEnded");
+    this.setState({ playing: this.state.loop });
+  }
+
+  handleDuration(duration) {
+    console.log("onDuration", duration);
+    this.setState({ duration });
+  }
+
+  format(seconds) {
+    const date = new Date(seconds * 1000);
+    const hh = date.getUTCHours();
+    const mm = date.getUTCMinutes();
+    const ss = this.pad(date.getUTCSeconds());
+    if (hh) {
+      return `${hh}:${pad(mm)}:${ss}`;
+    }
+    return `${mm}:${ss}`;
+  }
+
+  pad(string) {
+    return ("0" + string).slice(-2);
+  }
+
+  render() {
+    const {
+      playing,
+      played,
+      pip,
+      controls,
+      light,
+      volume,
+      muted,
+      loaded,
+      duration,
+      playbackRate,
+      loop
+    } = this.state;
+    console.log(duration * played, duration);
     return (
       <Block
         className="no-margin"
@@ -60,33 +139,26 @@ export default class Player extends Component {
           <span
             style={{ color: "#9375D0", fontSize: "10px", fontWeight: "800" }}
           >
-            00:11
+            {this.format(duration * played)}
           </span>
           <span
             style={{ color: "#464C5B", fontSize: "10px", fontWeight: "800" }}
           >
-            06:11
+            {this.format(duration)}
           </span>
         </div>
+        <p>
+          <Progressbar progress={played * 100}></Progressbar>
+        </p>
         {/* <Range
           min={0}
-          max={1}
-          step="any"
-          value={played}
-          // onMouseDown={this.handleSeekMouseDown}
-          // onChange={this.handleSeekChange}
-          // onMouseUp={this.handleSeekMouseUp}
+          max={duration}
+          step={1}
+          value={duration * played}
+          onMouseDown={this.handleSeekMouseDown}
+          onChange={this.handleSeekChange}
+          onMouseUp={this.handleSeekMouseUp}
         ></Range> */}
-        <input
-          type="range"
-          min={0}
-          max={1}
-          step="any"
-          value={played}
-          // onMouseDown={this.handleSeekMouseDown}
-          // onChange={this.handleSeekChange}
-          // onMouseUp={this.handleSeekMouseUp}
-        />
         <div
           style={{
             paddingTop: "10px",
@@ -106,10 +178,32 @@ export default class Player extends Component {
           <NextButton />
         </div>
         <ReactPlayer
+          ref={player => {
+            this.player = player;
+          }}
           url="https://www.youtube.com/watch?v=0VC6euBtKkk"
-          // hidden
+          hidden
           playing={playing}
           onProgress={this.handleProgress}
+          pip={pip}
+          controls={controls}
+          light={light}
+          loop={loop}
+          playbackRate={playbackRate}
+          volume={volume}
+          muted={muted}
+          onReady={() => console.log("onReady")}
+          onStart={() => console.log("onStart")}
+          onPlay={this.handlePlay.bind(this)}
+          onEnablePIP={this.handleEnablePIP.bind(this)}
+          onDisablePIP={this.handleDisablePIP.bind(this)}
+          onPause={this.handlePause.bind(this)}
+          onBuffer={() => console.log("onBuffer")}
+          onSeek={e => console.log("onSeek", e)}
+          onEnded={this.handleEnded.bind(this)}
+          onError={e => console.log("onError", e)}
+          onProgress={this.handleProgress}
+          onDuration={duration => this.handleDuration(duration)}
         />
       </Block>
     );
