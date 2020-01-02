@@ -1,14 +1,5 @@
 import React from "react";
-import {
-  Page,
-  Navbar,
-  Block,
-  BlockTitle,
-  NavLeft,
-  NavTitle,
-  Link
-} from "framework7-react";
-import ReactPlayer from "react-player";
+import { Page, Navbar, Block, NavLeft, Link } from "framework7-react";
 import { BackIcon } from "../components/Icons";
 import PageBG from "../assets/svg/background/11.svg";
 import BookCover1 from "../assets/svg/book-cover/huge/1.svg";
